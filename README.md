@@ -1,5 +1,9 @@
 # Codewars and HackerRank Solutions
 
+![](https://img.shields.io/badge/notice-red?style=for-the-badge)
+
+> If you are anyone attempting these problems then kindly refrain from viewing the solutions that are provided here. These kind of platforms discourage these types of repositories, so, it is recommended that this repository be used for fair use only.
+
 This repository consists of solutions to hackerrank and codewars problems.
 
 For now, this repository consists of solutions attempted by me [Kreation Duwal],
