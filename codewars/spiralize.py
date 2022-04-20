@@ -1,3 +1,4 @@
+# Spiralize Codewars Solution - Submitted by [Kreation Duwal]
 def spiralize(size):
     grid = [
         [

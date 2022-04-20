@@ -1,6 +1,6 @@
 import math
 
-
+# Array Manipulation HackerRank Solution - Submitted by [Kreation Duwal]
 def arrayManipulation(n, queries):
     v = [0 for i in range(n + 1)]
     for query in queries:

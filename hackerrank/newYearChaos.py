@@ -1,11 +1,12 @@
-def protectedPrint(value, condition):
-    if condition:
-        print(value)
-
-
+# Minimum Bribes HackerRank solution - Submitted by [Kreation Duwal]
 def minimumBribes(q, main=True):
+    def protectedPrint(value, condition):
+        if condition:
+            print(value)
+
     n = 0
     i = 0
+
     bribes = {}
     # op is a bool to check if something is outof place
     op = False

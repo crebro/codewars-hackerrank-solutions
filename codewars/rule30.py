@@ -1,3 +1,4 @@
+# Rule 30 Codewars Solution - Submitted by [Kreation Duwal]
 def rule30(list_, n):
     conditions = {
         "000": 0,

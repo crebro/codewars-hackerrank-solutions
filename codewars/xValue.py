@@ -6,7 +6,7 @@ def solveBetter(eq: str):
     return x if eq.find("x") > eq.find("=") else -x
 
 
-# this was my initial submission for the problem but the above solution is far better than the below
+# Value of X Codewars Solution - Submitted by [Kreation Duwal]
 def solve(eq: str):
     # splits the equation into left hand side or right hand side
     equationSplit = eq.split("=")
